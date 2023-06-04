@@ -1,0 +1,28 @@
+.notfound-container {
+  width: 1028px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.notfound-content {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.notfound-animation-player {
+  width: 400px;
+}
+
+.notfound-speration {
+  height: 500px;
+  border-right: 1px solid #808080;
+}
+
+.notfound-title {
+  font-size: 150px;
+  letter-spacing: 20px;
+  margin: 0;
+}

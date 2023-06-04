@@ -1,0 +1,15 @@
+Resume builder with React JS
+
+1. Create a Resume builder ( No image upload required )
+1.1 There should be fields for Name, Email, Address and Phone
+1.2 Add Education and Experience fields,both required.Initially in each section there will be a single field box to add company / institute, year, and designation / degree.There will be an add more button to add fields in each section.
+1.3 Add skill section, user can add skill sets, like PHP, Javascript etc.Developer must use taggit like plugin with auto complete.
+1.4 UI must be clean and simple but should use Bootstrap 4.
+
+You can add addition features(optional)
+1. Add routes with React Router, there will be page for edit / create resume and view resume
+2. Use ES6 / ES7 decorators(HOC functions)
+3. Explain `ref` and use it on application
+4. Add Redux / React Redux plugin
+5. Add Redux Form
+You can add optional features but it is not mandatory
